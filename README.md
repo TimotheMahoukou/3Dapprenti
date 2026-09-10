@@ -1,26 +1,24 @@
-# Festi'JS — [nom de votre festival]
+# 3D APPRENTI
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
 ## Le binôme
 
-| Prénom NOM | Identifiant Git | Groupe |
-|------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+|    Prénom NOM  | Identifiant Git | Groupe |
+|----------------|-----------------|--------|
+|Timothé Mahoukou| TimotheMahoukou | Créa1  |
+|                |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+Timothé 
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- Theme : tutoriel de 3d
+- Jeu : quizz sur les base de la 3D
 
 ## Lancer le projet
 
@@ -38,7 +36,7 @@ assets/             images, sons, vidéos
 
 ## Journal de bord
 
-Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit *pourquoi*, et où vous en êtes.
+Sceance1 : 
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
