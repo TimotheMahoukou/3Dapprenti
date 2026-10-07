@@ -1,48 +1,22 @@
-html{
-  margin: 0px;
-  display: inline-flex;
-  width: 100vw;
-}
-.logo{
-  width: 4vw;
-}
-header{
-    width: 100%;
-    display: inline-flex;
-    margin-bottom: 0px;
-    z-index: 2;
-}
-nav{
-  display: inline flex;
-  align-items: center;
-  text-decoration: none;
-  width: 100vw;
-  justify-content: space-between;
-  background-color: darkblue;
-  color: aliceblue;
-  a{
-    display: inline-block;
-    color: aliceblue;
-    text-decoration: none;
-  }
-  a:visited {
-    color: aliceblue;       /* même couleur pour tous les états */
-    text-decoration: none; /* pas de soulignement */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
 }
 
-  ul{
-    justify-content: space-between;
-    list-style: none;
-    display: flex;
-  }
+header,
+main {
+  max-width: 70rem;
+  margin: 0 auto;
+  padding: 1rem;
 }
-#programmation{
-  width: 100vw;
-  background-color: aqua;
-  height: 45vh;
+
+#programme {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
 }
-#jeu{
-  width: 100vw;
-  background-color: rgb(228, 28, 104);
-  height: 20vh;
+
+.carte {
+
 }
